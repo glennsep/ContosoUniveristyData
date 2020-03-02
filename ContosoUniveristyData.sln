@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ContosoUniveristyData", "ContosoUniveristyData\ContosoUniveristyData.sqlproj", "{22A998CA-1C79-4102-8803-A449A6C1A37B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoSite", "ContosoSite\ContosoSite.csproj", "{93701507-C8EA-4B63-80A0-64CC59591A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A998CA-1C79-4102-8803-A449A6C1A37B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{93701507-C8EA-4B63-80A0-64CC59591A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93701507-C8EA-4B63-80A0-64CC59591A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93701507-C8EA-4B63-80A0-64CC59591A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93701507-C8EA-4B63-80A0-64CC59591A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
